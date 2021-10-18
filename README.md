@@ -1,2 +1,2 @@
 My first Next.js app.
-Hosted at: [myApp](https://firstnextjs-alpha.vercel.app/)
+Hosted at: [https://firstnextjs-alpha.vercel.app/](https://firstnextjs-alpha.vercel.app/)
